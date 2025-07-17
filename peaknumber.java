@@ -1,5 +1,5 @@
 import java.util.*;
-public class fist {
+public class peaknumber {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
